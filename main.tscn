@@ -5,8 +5,9 @@
 [node name="main" type="Node2D" unique_id=1160020354]
 
 [node name="ColorRect" type="ColorRect" parent="." unique_id=687312963]
-offset_left = 561.0
-offset_top = 256.0
-offset_right = 601.0
-offset_bottom = 296.0
+offset_left = 483.0
+offset_top = 239.0
+offset_right = 607.0
+offset_bottom = 331.0
+color = Color(1, 0.14509805, 1, 1)
 script = ExtResource("1_ig7tw")
