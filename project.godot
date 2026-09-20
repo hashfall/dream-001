@@ -11,8 +11,13 @@ config_version=5
 [application]
 
 config/name="Dream001"
+run/main_scene="uid://b0b2mqe320y13"
 config/features=PackedStringArray("4.7", "GL Compatibility")
 config/icon="res://icon.svg"
+
+[autoload]
+
+Global="*uid://bgi6lxe5b4cui"
 
 [display]
 
